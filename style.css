@@ -22,3 +22,24 @@ p{
 header, footer{
     height:150px;
 }
+.button1{
+    background-color: #9F2689;
+    width: 250px;
+    height: 90px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+.button2{
+    background-color: #9F2689;
+    width: 350px;
+    height: 90px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+a{
+    font-size: 15px;
+    text-decoration: none;
+
+}
